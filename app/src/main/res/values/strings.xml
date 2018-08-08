@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Elections 2018</string>
+    <string name="Winner">Winner : </string>
+    <string name="Winsby">Wins by : </string>
+    <string name="cvpresident">President</string>
+    <string name="cvvice_president">Vice President</string>
+    <string name="cvtreasurer">Treasurer</string>
+    <string name="cvsecretary">Secretary</string>
+    <string name="cvjoint_secretary">Joint Secretary</string>
+
+
+    <string name="presidentname1cv">President One </string>
+    <string name="presidentname2cv">President Two</string>
+
+    <string name="vpname1cv">Vice-President One</string>
+    <string name="vpname2cv">Vice-President Two</string>
+
+    <string name="treasurername1cv">Treasurer One</string>
+    <string name="treasurername2cv">Treasurer Two</string>
+
+
+    <string name="secretary_name1cv">Secretary One</string>
+    <string name="secretary_name2cv">Secretary Two</string>
+    <string name="joint_secretary_name1cv">Joint-Secretary One</string>
+    <string name="joint_secretary_name2cv">Joint-Secretary Two</string>
+    <string name="legendteacher">"2 &#8211; 50 Register numbers are assigned to staff members. Each of the teacher votes has a special value of 5 * Regular Votes</string>
+    <string name="legendhod">Head Of the Department vote has a value of 10 regular votes. HOD id is "1" </string>
+
+    <string name="draw">No winner.Draw!</string>
+    <string name="register_number">Register Number:</string>
+    <string name="winners">Winners</string>
+    <string name="teacher_votes">Teacher Votes</string>
+    <string name="about">About</string>
+    <string name="assistant_professors_votes">Assistant Professors votes</string>
+    <string name="hashmapname">databaseMap</string>
+    <string name="dbname">mysharedprefdatabase</string>
+
+</resources>
